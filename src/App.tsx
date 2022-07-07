@@ -16,7 +16,7 @@ function App() {
   const { data } = useQuery(GET_LESSONS_QUERY)
 
   return (
-    <h1 className="text-5xl">Hi</h1>
+    <h1 className="text-5xl">Hello</h1>
     )
 }
 
